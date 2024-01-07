@@ -1,1 +1,1 @@
-# stars-wars.nvim
+# star-wars.nvim
