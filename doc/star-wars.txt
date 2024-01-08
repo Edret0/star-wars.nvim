@@ -1,0 +1,10 @@
+==============================================================================
+                                                                *star-wars.nvim*
+
+A theme that I created to simulate a theme in VsCode called star-wars.
+https://marketplace.visualstudio.com/items?itemName=NiravAgarwal.star-wars-theme
+
+You can use your package manager to install the plugin and then call >
+    "colorscheme star-wars"
+<
+vim:tw=78:ts=8:ft=help:norl:
